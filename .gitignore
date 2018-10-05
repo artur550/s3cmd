@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/bin/
+
+# NetBeans
+nb-configuration.xml
+
+properties.xml
+properties - v8.xml
+properties - v9 - new.xml
+AmazonCmd.jar
